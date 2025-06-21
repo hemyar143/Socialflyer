@@ -1,0 +1,3 @@
+git add pages/index.jsx
+git commit -m "Restore index.jsx with onboarding link"
+git push
